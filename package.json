@@ -1,0 +1,30 @@
+{
+  "name": "fd-deluge",
+  "version": "0.1.1",
+  "description": "Deluge Torrent (deluge-console) mixins for FluxData",
+  "homepage": "https://github.com/chromecide/fd-deluge",
+  "keywords": [
+    "FluxData",
+    "events",
+    "event-driven",
+    "framework",
+    "mixins",
+    "mixin",
+    "FluxData-Mixin",
+    "Deluge",
+    "Torrent"
+  ],
+  "author": {
+    "name": "Justin Pradier",
+    "email": "chromecide@chromecide.com",
+    "url": "http://chromecide.com/"
+  },
+  "dependencies": {
+  	"amdefine": "0.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chromecide/fd-deluge.git"
+  },
+  "main": "index.js"
+}
